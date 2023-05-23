@@ -4,7 +4,7 @@ Event Management System using Flask and Sqlite3
 
 This is my FRT Internship project....
 
-azure limk : eventmanagementsystem.azurewebsites.net
+azure link : eventmanagementsystem.azurewebsites.net
 
 # Project Statement:
 
