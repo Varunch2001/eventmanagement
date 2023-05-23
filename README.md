@@ -24,7 +24,7 @@ Event management is a process of organizing a professional and focused event, fo
 
 2.CSS
 
-3.JavaScript
+3.flask and sqlite
 
 # IDE Used :
 
